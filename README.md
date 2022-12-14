@@ -1,3 +1,0 @@
-# mygit
-git
--test-b
